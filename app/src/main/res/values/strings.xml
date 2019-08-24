@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Summer Code</string>
+    <string name="txt_login">Login Now</string>
+    <string name="edt_username">Enter Email</string>
+    <string name="edt_password">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="copyright">COPYRIGHT © 2019 | DESIGNED AND DEVELOPED BY: DONSOFT DEVELOPERS</string>
+    <string name="software_developer">Software Developer</string>
+    <string name="not_registered_click_here">Not registered click here</string>
+    <string name="logout">Logout</string>
+</resources>
